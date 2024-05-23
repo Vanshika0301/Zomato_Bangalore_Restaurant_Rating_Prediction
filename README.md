@@ -1,5 +1,7 @@
 # Zomato Bangalore Restaurant Rating Prediction
 
+![image](https://github.com/Vanshika0301/Zomato_Bangalore_Restaurant_Rating_Prediction/assets/146732449/ed4d419f-cca4-405e-aafe-c98196325c5f)
+
 ## Business Objectives :
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant, Bengaluru being one such city has more than 12,000 restaurants with restaurants serving dishes from all over the world. With such an high number of restaurants. This industry hasn't been saturated yet. And new restaurants are opening every day. However it has become difficult for them to compete with already established restaurants. The key issues that continue to pose a challenge to them include high real estate costs, rising food costs, shortage of quality manpower, fragmented supply chain and over-licensing.
 
